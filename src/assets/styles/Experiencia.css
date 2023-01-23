@@ -1,0 +1,18 @@
+.divExperiencia{
+    width: 363px;
+    height: 386px;
+    background-color: #848080;
+    border-radius: 16px;
+    color: rgb(66, 0, 0);
+    text-align: justify;
+    padding: 5px 29px;
+    box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.487);
+}
+
+span{
+    color: white;
+}
+.textH1{
+    font-size: 2em;
+}
+

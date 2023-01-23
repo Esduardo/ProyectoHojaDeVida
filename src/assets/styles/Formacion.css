@@ -1,0 +1,13 @@
+.formacionContainer{
+    background-color: #83707f8e;
+    border-radius: .8em;
+    width: 136px;
+    height: 389px;
+    font-size: 12px;
+    line-height: 15px;
+    padding: 0 15px;
+    text-align:justify;
+    margin-left: -150px;
+    margin-top: 10px;
+    box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.487);
+}

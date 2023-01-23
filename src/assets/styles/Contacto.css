@@ -1,0 +1,42 @@
+.contactoContainer{
+    width: 360px;
+    height: 215px;
+    background-color: #545050;
+    border-radius: 16px;
+    box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.487);
+}
+.div-container-flex{
+    display: flex;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 15px;
+}
+.div-container-flex-container-contacto{
+    display: flex;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 40%;
+}
+.titleContacto{
+    font-size: 2em;
+}
+.contacto{
+    width: 30px;
+    height: 32px;
+}
+.textConten{
+    font-size: 15px;
+}
+.mailbox{
+    width: 22px;
+    height: 22px;
+    margin-right: 10px;
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.instagram{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}

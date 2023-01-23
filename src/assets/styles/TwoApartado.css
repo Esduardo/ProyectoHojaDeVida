@@ -1,0 +1,11 @@
+.TwoApartado{
+    display: flex;
+    justify-content: space-around;
+}
+.piano{
+    transform: rotate(-90deg);
+    width: 448px;
+    margin-left: -130px;
+    margin-top: -20px;
+}
+

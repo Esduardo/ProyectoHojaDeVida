@@ -1,0 +1,10 @@
+.programarContainer{
+    border-radius: 16px;
+    
+}
+.program{
+    border-radius: 16px;
+    box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.487);
+    width: 360px;
+    height: 149px;
+}

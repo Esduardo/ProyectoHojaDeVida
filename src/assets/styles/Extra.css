@@ -1,0 +1,10 @@
+.divExtra{
+    display: flex;
+    justify-content: center;
+}
+.div-divDecoration{
+    margin-top: 15px;
+}
+.camara{
+    width: 118px;
+}

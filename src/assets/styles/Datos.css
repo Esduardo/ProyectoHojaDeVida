@@ -1,0 +1,8 @@
+.Datos{
+    display: flex;
+    justify-content: center;
+}
+
+.containerDatos{
+    margin-right: 20px;
+}

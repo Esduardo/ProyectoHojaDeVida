@@ -1,0 +1,20 @@
+.flor{
+    width: 10%;
+    transform: rotate(-88deg);
+    position: absolute;
+    margin-top: -5.5em;
+    margin-left: 12.5em;
+}
+
+.divSobreMi{
+    background-color: #545050;
+    border-radius: 1em;
+    width: 440px;
+    height: 386px;
+    margin-top: 10px;
+    box-shadow: -2px 5px 5px rgba(0, 0, 0, 0.487);
+    padding: 0 50px;
+}
+.titleH2{
+    text-align: end;
+}
