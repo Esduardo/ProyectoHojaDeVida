@@ -15,6 +15,7 @@ function SobreMi() {
 
                 Deseo compartir y trabajar con  empresas para<br/>
                 mejorar mi entorno laboral
+                Asi como otras cosas
             </p>    
         </div>
      );
